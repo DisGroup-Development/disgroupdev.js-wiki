@@ -1,9 +1,3 @@
----
-coverY: 0
----
+# 👋 Introduction
 
-# Welcome!
-
-## Welcome aboard!
-
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+Welcome to the official Wiki of [disgroupdev.js](https://npmjs.com/disgroupdev.js).
