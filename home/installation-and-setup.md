@@ -1,4 +1,4 @@
-# 📥 Installation & Setup
+# Installation & Setup
 
 To use [disgroupdev.js](https://npmjs.com/disgroupdev.js) you'll need to install [NodeJS](https://nodejs.org). [disgroupdev.js](https://npmjs.com/disgroupdev.js) v2 requires Node v16.6.0+.
 
@@ -10,6 +10,8 @@ To finally install [disgroupdev.js](https://npmjs.com/disgroupdev.js) run the fo
 
 ```shell
 npm install disgroupdev.js
+yarn add disgroupdev.js
+pnpm add disgroupdev.js
 ```
 
 Not sure if you already installed [disgroupdev.js](https://npmjs.com/disgroupdev.js)? Run and check if [disgroupdev.js](https://npmjs.com/disgroupdev.js) appears in the list:
@@ -21,5 +23,7 @@ npm list
 If you want to install a custom version of [disgroupdev.js](https://npmjs.com/disgroupdev.js) run:
 
 ```shell
-npm install disgroupdev.js@1
+npm install disgroupdev.js@<VERSION>
+yarn add disgroupdev.js@<VERSION>
+pnpm add disgroupdev.js@<VERSION>
 ```
